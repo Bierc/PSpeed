@@ -1,0 +1,7 @@
+main.o
+menu.o
+stack_proprieties.o
+game.o
+instructions.o
+words.o
+main
